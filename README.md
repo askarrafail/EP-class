@@ -1,2 +1,1 @@
-# EP-class
-SQl code and presentation 
+![Screenshot](ERD.png)
